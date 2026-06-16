@@ -3,6 +3,7 @@ from Storage import all_accounts
 from Functions import findAccountByNumber
 from ExceptionHandling import DepositError, WithdrawError
 
+# Runnable function added to App.py
 def main_runnable_code():
     while True:
         print('Welcome to Bank Application')
