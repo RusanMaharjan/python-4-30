@@ -13,6 +13,7 @@ def main_runnable_code():
         print('4. Show Details')
         print('5. Exit')
 
+        # Try catch block added
         try:
             choice = int(input('Enter your choice (1 - 5): '))
 
